@@ -7,7 +7,7 @@ I wanted to get more comfortable working with dictionaries, functions, loops, an
 ## Project dates
 
 - **Original file:** `carrental.py`
-- **Last modified locally:** November 18, 2025 (based on the file information I saved)
+- **Last modified :** November 18, 2025
 - **Published to GitHub:** October 23, 2026
 
 The local date is a *last modified* timestamp, not a confirmed original creation date.
