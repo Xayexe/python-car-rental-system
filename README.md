@@ -4,6 +4,14 @@ This is a simple car rental program I made while practicing Python. The idea was
 
 I wanted to get more comfortable working with dictionaries, functions, loops, and user input, so I put those concepts together into one program.
 
+## Project dates
+
+- **Original file:** `carrental.py`
+- **Last modified locally:** November 18, 2025 (based on the file information I saved)
+- **Published to GitHub:** October 23, 2026
+
+The local date is a *last modified* timestamp, not a confirmed original creation date.
+
 ## What it does
 
 - Shows which cars are available and their daily rental prices
